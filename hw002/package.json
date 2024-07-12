@@ -7,6 +7,6 @@
       "start": "node ./index.js"
     },
     "author": "Igor_K",
-    "repository": "",
+    "repository": "https://github.com/Harry2k7/Node_js.git",
     "license": "ISC"
   }
