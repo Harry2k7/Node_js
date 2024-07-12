@@ -1,0 +1,12 @@
+{
+    "name": "unique_pass_generator",
+    "version": "1.0.0",
+    "description": " library for generating random and unique passwords.",
+    "main": "index.js",
+    "scripts": {
+      "start": "node ./index.js"
+    },
+    "author": "Igor_K",
+    "repository": "",
+    "license": "ISC"
+  }
